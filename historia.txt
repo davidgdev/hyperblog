@@ -1,4 +1,2 @@
 Este es el primer parrafo del inicio de mi historia
-Segundo párrafo
-Tercer párrafo
-Cuarto párrafo
+Este párrafo remplazó los que se habían creado en el commit anterior
